@@ -1,0 +1,11 @@
+.gmail_container{
+    display: flex;
+    background: url('https://wallpaperaccess.com/full/30100.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   /* background-color: blueviolet; */
+   
+
+}
